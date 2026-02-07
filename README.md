@@ -26,5 +26,5 @@ Currently, I’m working as a Web Developer on Sentry, a Discord bot project, wh
 <img width="1340" height="630" alt="Screenshot 2026-01-19 135756" src="https://github.com/user-attachments/assets/48de8ee1-9884-4313-a14c-295976bfd69e" />
 <img width="1360" height="647" alt="Screenshot 2026-02-05 183737" src="https://github.com/user-attachments/assets/1f4bb04b-778e-42ec-afe5-2a1294c395ad" />
 <img width="1363" height="649" alt="Screenshot 2026-02-05 183654" src="https://github.com/user-attachments/assets/568ee2f9-1f73-4f94-8742-0310f9c380f1" />
-
+https://github.com/user-attachments/assets/e8f410df-fc30-430e-baf8-17df0c87de77
 
